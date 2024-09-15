@@ -4,3 +4,9 @@ logs/*
 # Ignorar todos los archivos dentro de la carpeta DB/
 DB/*
 
+# Ignorar Archivos generados por el sistema y el IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
